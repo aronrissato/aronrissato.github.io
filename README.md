@@ -4,6 +4,8 @@ Páginas públicas de apresentação, privacidade e termos do aplicativo YouTube
 
 Este repositório contém somente as páginas informativas estáticas.
 
-Hospedagem proposta: GitHub Pages em https://aronrissato.github.io/.
+Publicado gratuitamente no GitHub Pages: https://aronrissato.github.io/.
+
+Propriedade confirmada pelo Google Search Console na conta do responsável em 08/10/2026. Manter a metatag de verificação no index.html; ela não adiciona rastreamento.
 
 Contato: generalvideopublisher@gmail.com
